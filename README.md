@@ -1,4 +1,4 @@
-<h1 align="center">👾 GxMods Official</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #8A2BE2;">👾 GxMods Official</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GxMods-dark%20style-blueviolet?style=for-the-badge&logo=github" />
@@ -12,10 +12,10 @@
 Halo! Saya pengelola **GxMods Official**, blog yang membagikan review aplikasi & MOD APK dengan tampilan modern + dark mode 🌙  
 Saya juga bikin beberapa tools keren untuk bantu blogger lain, seperti:
 
-- 💡 APK Card Generator
-- 🌐 Offline Detector untuk Blogger
-- 🔥 MOD Request Form dengan emoji & localStorage
-- 📦 Sistem komentar Firebase untuk Blogger
+- 💡 **APK Card Generator**: Generator HTML otomatis untuk postingan MOD APK.
+- 🌐 **Offline Detector untuk Blogger**: Deteksi offline dengan animasi ripple & banner warning.
+- 🔥 **MOD Request Form**: Formulir permintaan MOD dengan emoji Unicode dan localStorage.
+- 📦 **Sistem komentar Firebase untuk Blogger**: Komentar realtime dengan emoji, pagination, & notifikasi.
 
 ---
 
@@ -34,10 +34,10 @@ Saya juga bikin beberapa tools keren untuk bantu blogger lain, seperti:
 ## 🚀 Proyek Unggulan
 | Nama Proyek | Deskripsi | Link |
 |-------------|-----------|------|
-| **APK Card Generator** | Generator HTML otomatis untuk postingan MOD APK dengan dark UI dan animasi spinner | 🔗 Soon |
-| **Offline Detector Blogger** | Deteksi offline dengan animasi ripple & banner warning di semua halaman blog | 🔗 Soon |
-| **MOD Request Form** | Formulir permintaan MOD dengan emoji unicode dan penyimpanan data | 🔗 Soon |
-| **Firebase Comment System** | Sistem komentar realtime di Blogger dengan emoji, pagination, & notifikasi | 🔗 Soon |
+| **APK Card Generator** | Generator HTML otomatis untuk postingan MOD APK dengan dark UI dan animasi spinner | 🔗 [Soon] |
+| **Offline Detector Blogger** | Deteksi offline dengan animasi ripple & banner warning di semua halaman blog | 🔗 [Soon] |
+| **MOD Request Form** | Formulir permintaan MOD dengan emoji unicode dan penyimpanan data | 🔗 [Soon] |
+| **Firebase Comment System** | Sistem komentar realtime di Blogger dengan emoji, pagination, & notifikasi | 🔗 [Soon] |
 
 ---
 
@@ -50,10 +50,9 @@ Saya juga bikin beberapa tools keren untuk bantu blogger lain, seperti:
 ---
 
 ## 🌐 Hubungi Saya
-- 🌍 Blog: [gxmods.xyz](https://gxmods.xyz)
-- 📩 Email: [gxmodscontact@gmail.com](mailto:gxmodscontact@gmail.com)
+- 🌍 **Blog**: [gxmods.xyz](https://gxmods.xyz)
+- 📩 **Email**: [gxmodscontact@gmail.com](mailto:gxmodscontact@gmail.com)
 
 ---
 
 > "Stay modded. Stay creative. 🚀"
-

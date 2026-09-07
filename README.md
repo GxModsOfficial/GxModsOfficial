@@ -9,7 +9,7 @@
 ---
 
 ## 🎮 Tentang Saya
-Halo! Saya pengelola **GxMods Official**, blog yang membagikan review aplikasi & MOD APK dengan tampilan modern + dark mode 🌙  
+Halo! Saya pengelola **GxMods Official**, blog yang membagikan review aplikasi & MOD APK
 Saya juga bikin beberapa tools keren untuk bantu blogger lain, seperti:
 
 - 💡 **APK Card Generator**: Generator HTML otomatis untuk postingan MOD APK.
@@ -55,4 +55,4 @@ Saya juga bikin beberapa tools keren untuk bantu blogger lain, seperti:
 
 ---
 
-> "Stay modded. Stay creative. 🚀"
+> "Stay modded. Stay creative. , ( Created by AI 😁 )"

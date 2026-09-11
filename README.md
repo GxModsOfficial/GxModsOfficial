@@ -74,11 +74,11 @@ Nggak ada klaim jadi expert. Ilmu masih dasar, tapi rasa penasaran tinggi. Nulis
 <div align="center">
 
 <a href="https://gxmods-official.blogspot.com">
-<img src="https://img.shields.io/badge/GxMods--official-1a1a1a?style=for-the-badge&logo=blogger&logoColor=white" />
+<img src="https://img.shields.io/badge/Blogger-1a1a1a?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://t.me/GxModsbot">
-<img src="https://img.shields.io/badge/GxModsbot-1a1a1a?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram-1a1a1a?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </div>

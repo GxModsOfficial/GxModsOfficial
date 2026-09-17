@@ -81,14 +81,10 @@
 
 <br/>
 
-<h2 align="center">Connect</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 
-<a href="https://gxmods-official.blogspot.com">
-<img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-&nbsp;
 <a href="https://t.me/GxModsbot">
 <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
